@@ -6,7 +6,9 @@ Password dapat digenerate dengan beberapa opsi. Dengan adanya checkbox, user dap
 
 | Pilihan Fitur                                                              | Ket. |
 |---------------------------------------------------------------|---|
+| Custom Length (5-40 character)                        | ✔ |
 | Upper Case                                               | ✔ |
 | Lower Case                                            | ✔ |
 | Symbol                                                  | ✔ |
 | Number                                                | ✔ |
+

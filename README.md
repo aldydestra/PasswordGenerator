@@ -1,10 +1,10 @@
 # PasswordGenerator
-Pembuat Password yang aman dengan mudah.
+Easy Password Generator with custom option available.
 
-# Fitur
-Password dapat digenerate dengan beberapa opsi. Dengan adanya checkbox, user dapat memilih fitur yang akan digunakan pada saat hendak melakukan generate password
+# Features
+Passwords can be generated with several options. Using the checkbox, the user can choose the features that will be used when they want to generate a password
 
-| Pilihan Fitur                                                              | Ket. |
+| Feature Options                                                              | Desc. |
 |---------------------------------------------------------------|---|
 | Custom Length (5-40 character)                        | ✔ |
 | Upper Case                                               | ✔ |
